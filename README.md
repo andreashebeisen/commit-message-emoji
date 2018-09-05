@@ -19,25 +19,25 @@ For commits with multiple types of messages, use multiple lines:
 
 ## Which Emoji to Use? ❓
 
-Commit Type | Emoji
-----------  | -----
-Initial Commit | [🎉 Party Popper](http://emojipedia.org/party-popper/)
-Version Tag | [🔖 Bookmark](http://emojipedia.org/bookmark/)
-New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/)
-Bugfix | [🐛 Bug](http://emojipedia.org/bug/)
-Security Fix | [🔒 Lock](https://emojipedia.org/lock/)
-Metadata | [📇 Card Index](http://emojipedia.org/card-index/)
-Refactoring | [♻️ Black Universal Recycling Symbol](http://emojipedia.org/black-universal-recycling-symbol/)
-Documentation | [📚 Books](http://emojipedia.org/books/)
-Internationalization | [🌐 Globe With Meridians](http://emojipedia.org/globe-with-meridians/)
-Accessibility | [♿ Wheelchair](https://emojipedia.org/wheelchair-symbol/)
-Performance | [🐎 Horse](http://emojipedia.org/horse/)
-Cosmetic | [🎨 Artist Palette](http://emojipedia.org/artist-palette/)
-Tooling | [🔧 Wrench](http://emojipedia.org/wrench/)
-Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/)
-Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/)
-Removal | [🗑️ Wastebasket](http://emojipedia.org/wastebasket/)
-Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/)
+Commit Type | Emoji | Name (Windows deutsch)
+----------  | ----- | ------
+Initial Commit | [🎉 Party Popper](http://emojipedia.org/party-popper/) | Konfettibombe
+Version Tag | [🔖 Bookmark](http://emojipedia.org/bookmark/) | LesezeichenLesezeichen
+New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/) | Funkelnde Sterne
+Bugfix | [🐛 Bug](http://emojipedia.org/bug/) | Raupe
+Security Fix | [🔒 Lock](https://emojipedia.org/lock/) | geschlossenes Schloss
+Metadata | [📇 Card Index](http://emojipedia.org/card-index/) | Rotationskartei
+Refactoring | [♻️ Black Universal Recycling Symbol](hRotationskarteittp://emojipedia.org/black-universal-recycling-symbol/) | Recycling-Symbol
+Documentation | [📚 Books](http://emojipedia.org/books/) | Bücher
+Internationalization | [🌐 Globe With Meridians](http://emojipedia.org/globe-with-meridians/) | Globus mit Meridianen
+Accessibility | [♿ Wheelchair](https://emojipedia.org/wheelchair-symbol/) | Symbohl "Rollstuhl"
+Performance | [🐎 Horse](http://emojipedia.org/horse/) | Pferd
+Cosmetic | [🎨 Artist Palette](http://emojipedia.org/artist-palette/) | Mischpalette
+Tooling | [🔧 Wrench](http://emojipedia.org/wrench/) | Schraubenschlüssel
+Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/) | Polizeilicht
+Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/) | Kothaufen
+Removal | [🗑️ Wastebasket](http://emojipedia.org/wastebasket/) | Papierkorb
+Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/) | Baustellenschild
 
 ## Using Emoji is Hard! 😡
 
